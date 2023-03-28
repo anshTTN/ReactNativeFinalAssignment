@@ -1,5 +1,5 @@
 # ReactNativeFinalAssignment
-Final ract native assignment
+Final react native assignment
 
 # STEPS TO RUN THIS PROJECT:
   1. npm install
